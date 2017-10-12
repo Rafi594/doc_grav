@@ -89,8 +89,7 @@ form:
 </button>
 </br>
 </br>
-<em>Note : vous pouvez aussi vous connecter via votre client XMPP favori à</br>
-support@conference.yunohost.org</em>
+<em>Note : vous pouvez aussi vous connecter via votre client XMPP favori à</br>support@conference.yunohost.org</em>
 </center>
 
 <h3>... ou demandez sur le forum !</h3>
