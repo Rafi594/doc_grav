@@ -135,16 +135,6 @@ document.getElementById("goDevroom").onclick = function() {
 }
 </script>
 
-## Téléphone / Fax
-
-**Bureau :** 01 23 45 67 89  
-**Mobile :** 01 23 45 67 89  
-**Fax :** 01 23 45 67 89
-
-## Horaires
-
-Ouvert du **lundi au vendredi** de **13:37 à 14:42**  
-Fermé Samedi et Dimanche
 
 ## Formulaire de contact
 Merci de remplir tout les champs. Nous vous répondrons dès que possible.
