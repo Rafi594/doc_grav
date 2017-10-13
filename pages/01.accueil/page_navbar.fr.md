@@ -8,9 +8,10 @@ editable-simplemde:
 [g-jumbotron name="jumbotron1" fullwidth="true" image="bg_cat.jpg" render=false]
 # YunoHost est un outil qui vous permet d’installer et d’utiliser facilement votre propre serveur.
 
-[g-button button_url="/grav/install" button_type="info" button_label="Essayer"][/g-button]
-[g-button button_url="/grav/install" button_type="success" button_label="Installer"][/g-button]
-[/g-jumbotron]
+
+  <div class="call-to-action">
+    <a class="btn btn-primary btn-lg" href="/try_fr">Essayer</a>
+    <a class="btn btn-success btn-lg" href="/install_fr">Installer</a>
 
 
 [g-what-we-do name="what_we_do" attributes="class:what-we-do module" column_attributes="class:col-md-12"]
