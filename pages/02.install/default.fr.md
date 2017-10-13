@@ -15,7 +15,7 @@ Cette page liste plusieurs types d’installations, classés par catégories.
 <div class="row">
 
 <div class="col col-md-3 text-center">
-<a href="/grav/try"><img height=150 src="https://yunohost.org/images/logo.png" style="vertical-align:bottom"><b><p>Serveur de démo</p></b></a>
+<a href="/grav/docs/try"><img height=150 src="https://yunohost.org/images/logo.png" style="vertical-align:bottom"><b><p>Serveur de démo</p></b></a>
 </div>
 
 <div class="col col-md-3 text-center">
