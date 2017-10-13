@@ -6,6 +6,7 @@ visible: false
 [g-navbar id="navbar1" name=navbar1 fixed=top centering=none brand_text="YunoHost" render=false]
     [g-navbar-menu name=menu0 alignment="center" submenu="autre" attributes="class:highdensity-menu"][/g-navbar-menu]    
     [g-navbar-menu name=menu1 icon_type="fontawesome" alignment="right" ]
+    [g-link url="https://rafi59.codelib.re/grav/login" icon="login"][/g-link]
         [g-link url="https://framasphere.org/u/yunohost" icon_type="fontawesome" icon="asterisk"][/g-link]
         [g-link url="https://mastodon.social/@yunohost" icon="retweet"][/g-link]
         [g-link url="https://github.com/YunoHost" icon="github"][/g-link]
