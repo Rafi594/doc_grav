@@ -5,7 +5,7 @@ editable-simplemde:
     self: false
 ---
 
-[g-jumbotron name="jumbotron1" fullwidth="true" image="home_paneljpg" render=false]
+[g-jumbotron name="jumbotron1" fullwidth="true" image="home_panel.jpg" render=false]
 # YunoHost est un outil qui vous permet d’installer et d’utiliser facilement votre propre serveur.
 
   <div class="call-to-action">
