@@ -3,7 +3,7 @@ cache_enable: false
 visible: false
 ---
 
-[g-navbar id="navbar1" name=navbar1 fixed=top centering=none image="yunohost.jpg" render=false]
+[g-navbar id="navbar1" name=navbar1 fixed=top centering=none brand_text="YunoHost" render=false]
     [g-navbar-menu name=menu0 alignment="center" submenu="autre" attributes="class:highdensity-menu"][/g-navbar-menu]    
     [g-navbar-menu name=menu1 icon_type="fontawesome" alignment="right" ]
     [g-link url="https://rafi59.codelib.re/grav/login" icon="login"][/g-link]
