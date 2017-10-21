@@ -36,11 +36,6 @@ editable-simplemde:
 
   <hr />
 
-[g-list attributes="class:text-left"]
-[g-list-item][Composants de base](https://docs.framasoft.org/fr/grav/composants-de-base.html)[/g-list-item]
-[g-list-item][Composants Bootstrap](https://docs.framasoft.org/fr/grav/composants-bootstrap.html)[/g-list-item]
-[g-list-item][Modules](https://docs.framasoft.org/fr/grav/modules.html)[/g-list-item]
-[/g-list]
 
 [/g-what-we-do-item]
 
