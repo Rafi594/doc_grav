@@ -2,13 +2,6 @@
 title: Home
 ---
 
----
-title: Accueil
-slug: accueil
-editable-simplemde:
-    self: false
----
-
 [g-jumbotron name="jumbotron1" fullwidth="true" image="home_panel.jpg" render=false]
 ## YunoHost is a server operating system aiming to make self-hosting accessible to everyone.
 
