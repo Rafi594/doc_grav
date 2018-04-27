@@ -76,10 +76,9 @@ form:
 
 <h3>Connectez-vous au salon de support</h3>
 <center>
-!!! <strong>ProTips™</strong>
-!!! <ul style="text-align:left;">
-!!! <li>Pas besoin de demander si vous pouvez poser une question - posez-la directement !</li>
-!!! <li><em>Soyez patient</em>, cela peut prendre plusieurs minutes avant que quelqu'un remarque vos messages.</li>
+!!! **ProTips™**
+!!! <Pas besoin de demander si vous pouvez poser une question - posez-la directement !<li>
+!!! **Soyez patient**, cela peut prendre plusieurs minutes avant que quelqu'un remarque vos messages.<li/>
 </ul>
 </div>
 <strong>Pseudonyme</strong> : <input id="nickname" value="foobar" type="text">
