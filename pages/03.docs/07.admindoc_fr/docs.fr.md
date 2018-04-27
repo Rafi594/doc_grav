@@ -2,8 +2,6 @@
 title: 'Documentation pour les administrateurs YunoHost'
 ---
 
-# Documentation pour les administrateurs YunoHost
-
 * [L’auto-hébergement](/selfhosting_fr)
 * [Matériel compatible](/hardware_fr)
 * [Guide d’installation](/install_fr)
