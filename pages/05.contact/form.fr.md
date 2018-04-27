@@ -75,7 +75,7 @@ form:
 # Besoin d'aide ?
 
 <h3>Connectez-vous au salon de support</h3>
-<center>
+
 !!!!  **ProTips™**
 !!!!     
 !!!! Pas besoin de demander si vous pouvez poser une question - posez-la directement !
@@ -94,7 +94,6 @@ form:
 
 Note : vous pouvez aussi vous connecter via votre client XMPP favori à</br>
 support@conference.yunohost.org</em>
-</center>
 
 <h3>... ou demandez sur le forum !</h3>
 
